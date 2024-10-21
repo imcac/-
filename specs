@@ -1,0 +1,300 @@
+找工作筛选条件
+	地区
+		日本
+			关东地方
+				•	东京都
+				•	茨城县
+				•	栃木县
+				•	群马县
+				•	埼玉县
+				•	千叶县
+				•	神奈川县
+			近畿地方（关西地方）
+				•	三重县
+				•	滋贺县
+				•	京都府
+				•	大阪府
+				•	兵库县
+				•	奈良县
+				•	和歌山县
+			九州地方
+				•	福冈县
+				•	佐贺县
+				•	长崎县
+				•	熊本县
+				•	大分县
+				•	宫崎县
+				•	鹿儿岛县
+				•	冲绳县
+			东北地方
+				•	青森县
+				•	岩手县
+				•	宫城县
+				•	秋田县
+				•	山形县
+				•	福岛县
+			中部地方
+				•	新潟县
+				•	富山县
+				•	石川县
+				•	福井县
+				•	山梨县
+				•	长野县
+				•	岐阜县
+				•	静冈县
+				•	爱知县
+			中国地方
+				•	鸟取县
+				•	岛根县
+				•	冈山县
+				•	广岛县
+				•	山口县
+			四国地方
+				•	德岛县
+				•	香川县
+				•	爱媛县
+				•	高知县
+			北海道地方
+				•	北海道
+	技能要求
+		编程语言
+			•	JavaScript
+			•	Python
+			•	Java
+			•	C++
+			•	Ruby
+			•	PHP
+			•	Swift
+			•	Go
+			•	TypeScript
+			•	Kotlin
+		前端开发
+			•	HTML/CSS
+			•	React.js
+			•	Angular.js
+			•	Vue.js
+			•	jQuery
+			•	SASS/LESS
+			•	Bootstrap
+			•	Webpack
+		后端开发
+			•	Node.js
+			•	Express.js
+			•	Django
+			•	Flask
+			•	Spring Boot
+			•	Laravel
+			•	Ruby on Rails
+			•	ASP.NET
+			•	GraphQL
+		数据库
+			•	MySQL
+			•	PostgreSQL
+			•	MongoDB
+			•	Redis
+			•	Oracle
+			•	SQL Server
+			•	SQLite
+		云计算与DevOps
+			•	AWS
+			•	Google Cloud
+			•	Microsoft Azure
+			•	Docker
+			•	Kubernetes
+			•	Jenkins
+			•	Terraform
+			•	Ansible
+			•	CI/CD Pipeline
+		移动应用开发
+			•	iOS开发 (Swift, Objective-C)
+			•	Android开发 (Kotlin, Java)
+			•	React Native
+			•	Flutter
+		人工智能与数据分析
+			•	机器学习
+			•	深度学习
+			•	数据挖掘
+			•	数据分析
+			•	TensorFlow
+			•	PyTorch
+			•	Pandas
+			•	NumPy
+			•	R语言
+			
+		设计与用户体验
+			•	UI/UX设计
+			•	Figma
+			•	Sketch
+			•	Adobe XD
+			•	Illustrator
+			•	Photoshop
+			•	Axure RP
+		网络与安全
+			•	网络安全
+			•	防火墙配置
+			•	加密技术
+			•	安全协议 (SSL/TLS)
+			•	渗透测试
+			•	网络架构设计
+		项目管理与协作
+			•	项目管理 (Agile, Scrum)
+			•	Jira
+			•	Trello
+			•	Asana
+			•	Confluence
+			•	Slack
+			•	Git/GitHub
+		行业特定技能
+			•	数据可视化
+			•	SAP/ERP系统
+			•	财务分析
+			•	法律知识
+			•	医疗相关技能
+	工作类型
+		•	全职 (正社員)
+		•	兼职 (パート・アルバイト)
+		•	合同工 (契約社員)
+		•	实习 (インターン)
+		•	外包 (外注・業務委託)
+		•	临时工 (派遣社員)
+	工作时间
+		•	全日制 (フルタイム)
+		•	非全日制 (パートタイム)
+		•	灵活工作时间 (フレックスタイム)
+		•	轮班制 (シフト制)
+		•	夜班 (夜勤)
+	工作地点
+		•	远程办公 (リモートワーク/テレワーク)
+		•	混合办公 (ハイブリッドワーク)
+		•	现场办公 (オフィス勤務)
+		•	出差工作 (出張あり)
+	行业类型
+		•	IT/互联网 (IT・インターネット)
+		•	制造业 (製造業)
+		•	金融/银行 (金融・銀行)
+		•	教育培训 (教育・研修)
+		•	医疗卫生 (医療・ヘルスケア)
+		•	零售/服务业 (小売り・サービス)
+		•	法律/咨询 (法律・コンサルティング)
+		•	创意/设计 (クリエイティブ・デザイン)
+		•	物流/运输 (物流・運輸)
+		•	能源/环境 (エネルギー・環境)
+	合同期限
+		•	长期合同 (長期契約)
+		•	短期合同 (短期契約)
+		•	项目制 (プロジェクトベース)
+		•	临时职位 (一時的なポジション)
+	薪酬模式
+		•	月薪 (月給)
+		•	时薪 (時給)
+		•	佣金制 (コミッション制)
+		•	项目制薪酬 (プロジェクト毎の報酬)
+		•	固定薪酬 + 奖金 (固定給＋ボーナス)
+	特殊工作类型
+		•	自由职业者 (フリーランス)
+		•	创业职位 (スタートアップ)
+		•	创意职位 (クリエイティブポジション)
+		•	教学/培训职位 (教育・研修ポジション)
+	语言要求
+		•	英语
+		•	日语
+		•	中文
+		•	韩语
+		•	法语
+		•	德语
+	学历
+		初中及以下
+		中专/中技
+		高中
+		大专
+		本科
+		硕士
+		博士
+	薪资待遇
+		8K及以下
+		8-12K
+		12-16K
+		16-20K
+		20-25K
+		26K以上
+		自定义薪资
+	福利待遇
+		周末双休
+		8小时工作制
+		五险
+		带薪年假
+		弹性工作制
+		餐补
+		五险一金
+		保底工资
+		薪资加提成
+		年终奖
+		房补
+	经验要求
+		在校生
+		应届生
+		1年以内
+		1-3年
+		3-5年
+		5-10年
+		10年以上
+	行业分类
+		计算机软件
+		互联网
+		移动互联网
+		电子商务
+	公司规模
+		0-20人
+		20-99人
+		100-499人
+		500-999人
+		1000-9999人
+		10000人以上
+	融资阶段
+		未融资
+		天使轮
+		A轮
+		B轮
+		C轮
+		D轮及以上
+		已上市
+		不需要融资
+	web前端架构
+		Vue
+		React
+		BootStrap
+		Angular
+		jQuery
+		Node.js
+		YUI3
+		Dojo
+		Dhtmlx
+		backbone
+		ExtJS
+		Polymer
+		Semantic UI
+	开发语言
+		JavaScript
+		Java
+		TypeScript
+		C/C++
+		.NET
+		Golang
+		SQL
+		Python
+		Delphi
+		Haskell
+		Assembly Language
+		C#
+		Groovy
+		PHP
+		Lua
+		Erlang
+		Julia
+		Shell
+		Swift
+		D
+		Kotlin
+		MATLAB
+		VBA
+		Scala
